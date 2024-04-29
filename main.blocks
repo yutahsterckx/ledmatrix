@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="xxsldM`+1YBA1FKlQ:*q">wanneer knop A niet wordt ingedrukt</variable></variables><block type="device_forever" id="%9R%O^N)L/MW_czT@]Jn" x="0" y="0"><statement name="HANDLER"><block type="controls_if" id="Z/DARB28]AypaJ/@{5hE"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean" disabled="true"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="b)yG(H0Vkh*BFDXq?xR9"><field name="NAME">Button.A</field></block></value><statement name="DO0"><block type="device_show_leds" id="s1Wg8U-3hEky7cZywa:V"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . .
+        `</field></block></statement><statement name="ELSE"><block type="device_clear_display" id="F-^F]ZFqe#cht?_{PU(K"></block></statement></block></statement></block></xml>
